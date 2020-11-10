@@ -1,0 +1,124 @@
+D:\Visual Studio\Xadrez Louco Novo\bin\Debug\Xadrez Louco Novo.exe.config
+D:\Visual Studio\Xadrez Louco Novo\bin\Debug\Xadrez Louco Novo.exe
+D:\Visual Studio\Xadrez Louco Novo\bin\Debug\Xadrez Louco Novo.pdb
+D:\Visual Studio\Xadrez Louco Novo\obj\Debug\Xadrez Louco Novo.csprojAssemblyReference.cache
+D:\Visual Studio\Xadrez Louco Novo\obj\Debug\Xadrez_Louco_Novo.Properties.Resources.resources
+D:\Visual Studio\Xadrez Louco Novo\obj\Debug\Xadrez Louco Novo.csproj.GenerateResource.cache
+D:\Visual Studio\Xadrez Louco Novo\obj\Debug\Xadrez Louco Novo.exe
+D:\Visual Studio\Xadrez Louco Novo\obj\Debug\Xadrez Louco Novo.pdb
+D:\Visual Studio\Xadrez Louco Novo\obj\Debug\Xadrez_Louco_Novo.ReplayViewer.resources
+D:\Visual Studio\Xadrez Louco Novo\obj\Debug\Xadrez_Louco_Novo.XadrezDoJota.resources
+D:\Visual Studio\Xadrez Louco Novo\obj\Debug\Xadrez_Louco_Novo.PawnPromoWhite.resources
+D:\Visual Studio\Xadrez Louco Novo\obj\Debug\Xadrez_Louco_Novo.PawnPromoBlack.resources
+D:\Visual Studio\Jogos\Xadrez Louco Novo\bin\Debug\Xadrez Louco Novo.exe.config
+D:\Visual Studio\Jogos\Xadrez Louco Novo\bin\Debug\Xadrez Louco Novo.exe
+D:\Visual Studio\Jogos\Xadrez Louco Novo\bin\Debug\Xadrez Louco Novo.pdb
+D:\Visual Studio\Jogos\Xadrez Louco Novo\obj\Debug\Xadrez Louco Novo.csprojAssemblyReference.cache
+D:\Visual Studio\Jogos\Xadrez Louco Novo\obj\Debug\Xadrez_Louco_Novo.XadrezDoJota.resources
+D:\Visual Studio\Jogos\Xadrez Louco Novo\obj\Debug\Xadrez_Louco_Novo.PawnPromoWhite.resources
+D:\Visual Studio\Jogos\Xadrez Louco Novo\obj\Debug\Xadrez_Louco_Novo.PawnPromoBlack.resources
+D:\Visual Studio\Jogos\Xadrez Louco Novo\obj\Debug\Xadrez_Louco_Novo.Properties.Resources.resources
+D:\Visual Studio\Jogos\Xadrez Louco Novo\obj\Debug\Xadrez_Louco_Novo.ReplayViewer.resources
+D:\Visual Studio\Jogos\Xadrez Louco Novo\obj\Debug\Xadrez Louco Novo.csproj.GenerateResource.cache
+D:\Visual Studio\Jogos\Xadrez Louco Novo\obj\Debug\Xadrez Louco Novo.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Jogos\Xadrez Louco Novo\obj\Debug\Xadrez Louco Novo.exe
+D:\Visual Studio\Jogos\Xadrez Louco Novo\obj\Debug\Xadrez Louco Novo.pdb
+D:\Visual Studio\Xadrez Louco Novoo\obj\Debug\Xadrez Louco Novo.csprojAssemblyReference.cache
+D:\Visual Studio\Xadrez Louco Novoo\obj\Debug\Xadrez_Louco_Novo.XadrezDoJota.resources
+D:\Visual Studio\Xadrez Louco Novoo\obj\Debug\Xadrez_Louco_Novo.PawnPromoWhite.resources
+D:\Visual Studio\Xadrez Louco Novoo\obj\Debug\Xadrez_Louco_Novo.PawnPromoBlack.resources
+D:\Visual Studio\Xadrez Louco Novoo\obj\Debug\Xadrez_Louco_Novo.Properties.Resources.resources
+D:\Visual Studio\Xadrez Louco Novoo\obj\Debug\Xadrez_Louco_Novo.ReplayViewer.resources
+D:\Visual Studio\Xadrez Louco Novoo\obj\Debug\Xadrez Louco Novo.csproj.GenerateResource.cache
+D:\Visual Studio\Xadrez Louco Novoo\obj\Debug\Xadrez Louco Novo.exe
+D:\Visual Studio\Xadrez Louco Novoo\obj\Debug\Xadrez Louco Novo.pdb
+D:\Visual Studio\Xadrez Louco Novoo\bin\Debug\Xadrez Louco Novo.exe.config
+D:\Visual Studio\Xadrez Louco Novoo\bin\Debug\Xadrez Louco Novo.exe
+D:\Visual Studio\Xadrez Louco Novoo\bin\Debug\Xadrez Louco Novo.pdb
+D:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\bin\Debug\Xadrez Louco Novo.exe.config
+D:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\bin\Debug\Xadrez Louco Novo.exe
+D:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\bin\Debug\Xadrez Louco Novo.pdb
+D:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\obj\Debug\Xadrez Louco Novo.csprojAssemblyReference.cache
+D:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\obj\Debug\Xadrez_Louco_Novo.XadrezDoJota.resources
+D:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\obj\Debug\Xadrez_Louco_Novo.PawnPromoWhite.resources
+D:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\obj\Debug\Xadrez_Louco_Novo.PawnPromoBlack.resources
+D:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\obj\Debug\Xadrez_Louco_Novo.Properties.Resources.resources
+D:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\obj\Debug\Xadrez_Louco_Novo.ReplayViewer.resources
+D:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\obj\Debug\Xadrez Louco Novo.csproj.GenerateResource.cache
+D:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\obj\Debug\Xadrez Louco Novo.exe
+D:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\obj\Debug\Xadrez Louco Novo.pdb
+D:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\bin\Debug\Xadrez Louco Novo.exe.manifest
+D:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\bin\Debug\Xadrez Louco Novo.application
+D:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\obj\Debug\Xadrez Louco Novo.TrustInfo.xml
+D:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\obj\Debug\Xadrez Louco Novo.exe.manifest
+D:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\obj\Debug\Xadrez Louco Novo.application
+F:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\bin\Debug\Xadrez Louco Novo.exe.config
+F:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\bin\Debug\Xadrez Louco Novo.exe.manifest
+F:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\bin\Debug\Xadrez Louco Novo.application
+F:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\bin\Debug\Xadrez Louco Novo.exe
+F:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\bin\Debug\Xadrez Louco Novo.pdb
+F:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\obj\Debug\Xadrez Louco Novo.csprojAssemblyReference.cache
+F:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\obj\Debug\Xadrez_Louco_Novo.XadrezDoJota.resources
+F:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\obj\Debug\Xadrez_Louco_Novo.PawnPromoWhite.resources
+F:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\obj\Debug\Xadrez_Louco_Novo.PawnPromoBlack.resources
+F:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\obj\Debug\Xadrez_Louco_Novo.Properties.Resources.resources
+F:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\obj\Debug\Xadrez_Louco_Novo.ReplayViewer.resources
+F:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\obj\Debug\Xadrez Louco Novo.csproj.GenerateResource.cache
+F:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\obj\Debug\Xadrez Louco Novo.csproj.CoreCompileInputs.cache
+F:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\obj\Debug\Xadrez Louco Novo.TrustInfo.xml
+F:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\obj\Debug\Xadrez Louco Novo.exe.manifest
+F:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\obj\Debug\Xadrez Louco Novo.application
+F:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\obj\Debug\Xadrez Louco Novo.exe
+F:\Visual Studio\WinFormsC#\Xadrez Louco Novoo\obj\Debug\Xadrez Louco Novo.pdb
+C:\Users\Paulo\Desktop\Xadrez Louco Novoo\bin\Debug\Xadrez Louco Novo.exe.config
+C:\Users\Paulo\Desktop\Xadrez Louco Novoo\bin\Debug\Xadrez Louco Novo.exe.manifest
+C:\Users\Paulo\Desktop\Xadrez Louco Novoo\bin\Debug\Xadrez Louco Novo.application
+C:\Users\Paulo\Desktop\Xadrez Louco Novoo\bin\Debug\Xadrez Louco Novo.exe
+C:\Users\Paulo\Desktop\Xadrez Louco Novoo\bin\Debug\Xadrez Louco Novo.pdb
+C:\Users\Paulo\Desktop\Xadrez Louco Novoo\obj\Debug\Xadrez Louco Novo.csprojAssemblyReference.cache
+C:\Users\Paulo\Desktop\Xadrez Louco Novoo\obj\Debug\Xadrez_Louco_Novo.XadrezDoJota.resources
+C:\Users\Paulo\Desktop\Xadrez Louco Novoo\obj\Debug\Xadrez_Louco_Novo.PawnPromoWhite.resources
+C:\Users\Paulo\Desktop\Xadrez Louco Novoo\obj\Debug\Xadrez_Louco_Novo.PawnPromoBlack.resources
+C:\Users\Paulo\Desktop\Xadrez Louco Novoo\obj\Debug\Xadrez_Louco_Novo.Properties.Resources.resources
+C:\Users\Paulo\Desktop\Xadrez Louco Novoo\obj\Debug\Xadrez_Louco_Novo.ReplayViewer.resources
+C:\Users\Paulo\Desktop\Xadrez Louco Novoo\obj\Debug\Xadrez Louco Novo.csproj.GenerateResource.cache
+C:\Users\Paulo\Desktop\Xadrez Louco Novoo\obj\Debug\Xadrez Louco Novo.TrustInfo.xml
+C:\Users\Paulo\Desktop\Xadrez Louco Novoo\obj\Debug\Xadrez Louco Novo.exe.manifest
+C:\Users\Paulo\Desktop\Xadrez Louco Novoo\obj\Debug\Xadrez Louco Novo.application
+C:\Users\Paulo\Desktop\Xadrez Louco Novoo\obj\Debug\Xadrez Louco Novo.exe
+C:\Users\Paulo\Desktop\Xadrez Louco Novoo\obj\Debug\Xadrez Louco Novo.pdb
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez)\Projeto (.sln)\bin\Debug\Xadrez Louco Novo.exe.config
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez)\Projeto (.sln)\bin\Debug\Xadrez Louco Novo.exe.manifest
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez)\Projeto (.sln)\bin\Debug\Xadrez Louco Novo.application
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez)\Projeto (.sln)\bin\Debug\Xadrez Louco Novo.exe
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez)\Projeto (.sln)\bin\Debug\Xadrez Louco Novo.pdb
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez)\Projeto (.sln)\obj\Debug\Xadrez Louco Novo.csprojAssemblyReference.cache
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez)\Projeto (.sln)\obj\Debug\Xadrez_Louco_Novo.XadrezDoJota.resources
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez)\Projeto (.sln)\obj\Debug\Xadrez_Louco_Novo.PawnPromoWhite.resources
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez)\Projeto (.sln)\obj\Debug\Xadrez_Louco_Novo.PawnPromoBlack.resources
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez)\Projeto (.sln)\obj\Debug\Xadrez_Louco_Novo.Properties.Resources.resources
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez)\Projeto (.sln)\obj\Debug\Xadrez_Louco_Novo.ReplayViewer.resources
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez)\Projeto (.sln)\obj\Debug\Xadrez Louco Novo.csproj.GenerateResource.cache
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez)\Projeto (.sln)\obj\Debug\Xadrez Louco Novo.TrustInfo.xml
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez)\Projeto (.sln)\obj\Debug\Xadrez Louco Novo.exe.manifest
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez)\Projeto (.sln)\obj\Debug\Xadrez Louco Novo.application
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez)\Projeto (.sln)\obj\Debug\Xadrez Louco Novo.exe
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez)\Projeto (.sln)\obj\Debug\Xadrez Louco Novo.pdb
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez Agora com Intro)\Projeto (.sln)\bin\Debug\Xadrez Louco Novo.exe.config
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez Agora com Intro)\Projeto (.sln)\bin\Debug\Xadrez Louco Novo.exe.manifest
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez Agora com Intro)\Projeto (.sln)\bin\Debug\Xadrez Louco Novo.application
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez Agora com Intro)\Projeto (.sln)\bin\Debug\Xadrez Louco Novo.exe
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez Agora com Intro)\Projeto (.sln)\bin\Debug\Xadrez Louco Novo.pdb
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez Agora com Intro)\Projeto (.sln)\obj\Debug\Xadrez Louco Novo.csprojAssemblyReference.cache
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez Agora com Intro)\Projeto (.sln)\obj\Debug\Xadrez_Louco_Novo.XadrezDoJota.resources
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez Agora com Intro)\Projeto (.sln)\obj\Debug\Xadrez_Louco_Novo.PawnPromoWhite.resources
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez Agora com Intro)\Projeto (.sln)\obj\Debug\Xadrez_Louco_Novo.PawnPromoBlack.resources
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez Agora com Intro)\Projeto (.sln)\obj\Debug\Xadrez_Louco_Novo.Properties.Resources.resources
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez Agora com Intro)\Projeto (.sln)\obj\Debug\Xadrez_Louco_Novo.ReplayViewer.resources
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez Agora com Intro)\Projeto (.sln)\obj\Debug\Xadrez Louco Novo.csproj.GenerateResource.cache
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez Agora com Intro)\Projeto (.sln)\obj\Debug\Xadrez Louco Novo.TrustInfo.xml
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez Agora com Intro)\Projeto (.sln)\obj\Debug\Xadrez Louco Novo.exe.manifest
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez Agora com Intro)\Projeto (.sln)\obj\Debug\Xadrez Louco Novo.application
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez Agora com Intro)\Projeto (.sln)\obj\Debug\Xadrez Louco Novo.exe
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez Agora com Intro)\Projeto (.sln)\obj\Debug\Xadrez Louco Novo.pdb
+D:\Visual Studio\Conjuntos C#\Projeto JoaoPaulo12K (Xadrez Agora com Intro)\Projeto (.sln)\obj\Debug\Xadrez Louco Novo.csproj.CoreCompileInputs.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xadrez Louco Novo", "Xadrez Louco Novo.csproj", "{6105699E-07AC-4355-B9F5-F693308634BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6105699E-07AC-4355-B9F5-F693308634BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6105699E-07AC-4355-B9F5-F693308634BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6105699E-07AC-4355-B9F5-F693308634BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6105699E-07AC-4355-B9F5-F693308634BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9262A5DC-13C0-4B53-BC6C-E1DEB1D8D448}
+	EndGlobalSection
+EndGlobal
